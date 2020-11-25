@@ -1,0 +1,72 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606303807474,
+  "index": "/prtu-registration/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/prtu-registration/favicon.ico",
+        "/prtu-registration/index.html",
+        "/prtu-registration/main.30fc6d6f5215023f86ae.js",
+        "/prtu-registration/manifest.webmanifest",
+        "/prtu-registration/polyfills.807c48cc014ab0be6389.js",
+        "/prtu-registration/runtime.acf0dec4155e77772545.js",
+        "/prtu-registration/styles.09e2c710755c8867a460.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/prtu-registration/assets/icons/icon-192x192.png",
+        "/prtu-registration/assets/icons/icon-256x256.png",
+        "/prtu-registration/assets/icons/icon-384x384.png",
+        "/prtu-registration/assets/icons/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/prtu-registration/assets/icons/icon-192x192.png": "59a2f1e013718c6cedc2563444a6ed05cd814129",
+    "/prtu-registration/assets/icons/icon-256x256.png": "77ffbcce8fd9c44aec65639a9d377cb39eb0ebb6",
+    "/prtu-registration/assets/icons/icon-384x384.png": "3f598800848ceee94fd624551557614b456c37fd",
+    "/prtu-registration/assets/icons/icon-512x512.png": "c57efdfe7d20a32dc17d05891906593a08db2566",
+    "/prtu-registration/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/prtu-registration/index.html": "2495003ae0346a0e60b9835641fb48b0459d2608",
+    "/prtu-registration/main.30fc6d6f5215023f86ae.js": "d3a4aa5ba15e18dc118187e55b9f3e784e907911",
+    "/prtu-registration/manifest.webmanifest": "43c1a4b42b3c184f4404e53b43b2fa52af5957c7",
+    "/prtu-registration/polyfills.807c48cc014ab0be6389.js": "7c74e34e322aefa9f0dd6a15ecea46617b21dc63",
+    "/prtu-registration/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/prtu-registration/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
