@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606643290398,
+  "timestamp": 1606643580750,
   "index": "/prtu-registration/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/prtu-registration/favicon.ico",
         "/prtu-registration/index.html",
-        "/prtu-registration/main.13c152b6a369fa54baea.js",
+        "/prtu-registration/main.6fe2328129bbc860c4d4.js",
         "/prtu-registration/manifest.webmanifest",
         "/prtu-registration/polyfills.807c48cc014ab0be6389.js",
         "/prtu-registration/runtime.acf0dec4155e77772545.js",
@@ -44,8 +44,8 @@
     "/prtu-registration/assets/icons/icon-384x384.png": "3f598800848ceee94fd624551557614b456c37fd",
     "/prtu-registration/assets/icons/icon-512x512.png": "c57efdfe7d20a32dc17d05891906593a08db2566",
     "/prtu-registration/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/prtu-registration/index.html": "2f641dfc0c202bbf11e0119e8214a6f3eeac1fad",
-    "/prtu-registration/main.13c152b6a369fa54baea.js": "f3c76e5426bad7a85da50afc5c7b5117b69ef220",
+    "/prtu-registration/index.html": "36603d10a3b723eba0f861032b9e86db4ce72ebf",
+    "/prtu-registration/main.6fe2328129bbc860c4d4.js": "e785df63ddd69392d6693bdecd96cc83ebfd048b",
     "/prtu-registration/manifest.webmanifest": "43c1a4b42b3c184f4404e53b43b2fa52af5957c7",
     "/prtu-registration/polyfills.807c48cc014ab0be6389.js": "7c74e34e322aefa9f0dd6a15ecea46617b21dc63",
     "/prtu-registration/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
